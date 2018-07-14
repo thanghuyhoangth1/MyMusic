@@ -1,4 +1,4 @@
-package online.music.com.mymusic.util;
+package online.music.com.mymusic.utils;
 
 public class SongEntryConstants {
     public static final String ARTWORK_URL = "artwork_url";

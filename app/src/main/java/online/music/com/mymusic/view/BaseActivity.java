@@ -1,4 +1,4 @@
-package online.music.com.mymusic.screen;
+package online.music.com.mymusic.view;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
