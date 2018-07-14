@@ -1,4 +1,4 @@
-package online.music.com.mymusic.screen.main;
+package online.music.com.mymusic.view.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
